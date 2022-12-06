@@ -2,8 +2,10 @@
 
 A custom enclosure to be used as a 3x3 macropad.
 
-Dimensions based on the Raspberry Pico. (I have not tested pico knockoffs so i wouldnt recommend trying to make it work with one)
+Dimensions based on the Raspberry Pico. (I have not tested pico knockoffs so I wouldnt recommend trying to make it work with one)
 
 All screwholes are M2 screw standard.
 Any lenght between 3 - 6 mm should work, though this depends slightly on manufacturing tolerances.
 
+Tutorials on how to assemble the pico and code can be found online. The one I used was this 
+https://www.hackster.io/1NextPCB/how-to-build-a-pico-macro-pad-3638e6#toc-what-do-you-need-1
